@@ -47,7 +47,7 @@ int main(void)
 ```
 ##OUTPUT
 
-![alt text](pidcheck.png)
+![alt text](pidc.png)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 ```
